@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 50%;
+}
+
+h1 {
+  border: 1px dashed red;
+  width: 100%;
+  padding: 0.5em;
+}
+
+p {
+  font-size: 1.2rem;
+  width: 50ch;
+}
+
+/*defalut font-size value is 16px*/
+/*ch - number of characters*/
+
+/*vw - viewport width units*/
